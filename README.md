@@ -11,7 +11,8 @@ A sleek weather application built with **Python** and **Flask** that provides **
 * 🔑 **Environment variable support** for secure API keys
 * ⚡ Lightweight and easy to set up
 
-
+📸 UI Preview
+<p align="center"> <img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758702054/Lucknow_Fahrenheit_dd4smm.png" alt="Weather App Screenshot - Fahrenheit" width="45%"/> &nbsp;&nbsp; <img src="https://res.cloudinary.com/dlvxjnycr/image/upload/v1758701988/lucknow_whether_of2ahy.png" alt="Weather App Screenshot - Weather Info" width="45%"/> </p>
 
 ## 🚀 Installation
 
